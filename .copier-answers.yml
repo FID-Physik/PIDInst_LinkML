@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier
+_commit: v0.5.0
+_src_path: https://github.com/linkml/linkml-project-copier
+add_example: true
+copyright_year: '2026'
+email: fid-physik@tib.eu
+existing_license_file: ''
+full_name: Cornelia Strauß
+gh_action_docs_preview: true
+gh_action_pypi: true
+github_org: FID-Physik
+license: MIT
+project_description: This is the LinkML representation of PIDInst, Metadata Schema
+    for the Persistent Identification of Scientific Measuring Instruments
+project_name: PIDInst_LinkML
+project_slug: pidinst_linkml
+
